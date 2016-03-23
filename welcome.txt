@@ -1,0 +1,14 @@
+Welcome to Introduction to Node.js!
+
+Instructor: Eric Greene
+
+Schedule:
+	Monday: 9:20am to 5pm
+
+Breaks:
+  Morning: 10:35am to 10:45am
+	Lunch: Noon to 1pm,
+	Afternoon #1: 2:15pm to 2:25pm
+	Afternoon #2: 3:40pm to 3:50pm
+
+Class Introductions...

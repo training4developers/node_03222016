@@ -1,0 +1,13 @@
+{
+  "name": "docker-node-app",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js application hosted in a Docker Container.",
+  "author": "Eric Greene <eric@training4developers.com>",
+  "dependencies": {
+    "express": "^4.*.*"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
